@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fitness</string>
+    <string name="error">Something went wrong! … please try again later</string>
+    <string name="score_header">Your Credit Score is</string>
+    <string name="score_footer">Out of %1$d</string>
+    <string name="status">Status: %1$s</string>
+    <string name="score_description">Score: %1$s</string>
+</resources>
